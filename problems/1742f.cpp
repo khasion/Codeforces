@@ -34,7 +34,6 @@ void solve() {
                 else tlength += k;
             }
         }
-        
         compare(sother, tother, slength, tlength);
     }
 }
